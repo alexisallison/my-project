@@ -99,6 +99,6 @@
       </div>
       </div>
 </div>
-
+<p id="bottom-link"> <a href="https://github.com/alexisallison/my-project.git"> Open Source Code </a> by Lexi Allison </p>
 </body>
 </html>
